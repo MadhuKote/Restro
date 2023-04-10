@@ -1,2 +1,3 @@
 # Restro
-a example 
+an Restrurant with spice food
+Miyapur Hyd
